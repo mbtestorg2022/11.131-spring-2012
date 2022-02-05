@@ -74,11 +74,66 @@ Your grade is based on you completing the "Course Requirements" as listed above.
 
 Grading rubric for written assignments:
 
-| Points | Criteria | Points earned and comments |
-| --- | --- | --- |
-| 7 |  {{< br >}}{{< br >}} Clear presentation of ideas {{< br >}}{{< br >}} (coherent, logical order, grammatically correct) {{< br >}}{{< br >}}  | &nbsp; |
-| 7 | Value of ideas and all issues of assignment addressed | &nbsp; |
-| 7 | Connection to readings |   
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Points
+{{< thclose >}}
+{{< thopen >}}
+Criteria
+{{< thclose >}}
+{{< thopen >}}
+Points earned and comments
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Clear presentation of ideas
+
+(coherent, logical order, grammatically correct)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Value of ideas and all issues of assignment addressed
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Connection to readings
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Class engagement points will be deducted for such things as absences, late attendance/early departures, being unprepared for class and lack of contribution to class discussion.
 
