@@ -216,7 +216,7 @@ _Guest speaker: Emily Parks__, Assistant Superintendent, Westwood Public Schools
 Getting a teaching job. Interviewing.
 {{< tdclose >}}
 {{< tdopen >}}
-[Preservice Performance Assessment for Practicum (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.doe.mass.edu/edprep/ppa_form.pdf) form and Practicum log due
+[Preservice Performance Assessment for Practicum (PDF)](http://www.doe.mass.edu/edprep/ppa_form.pdf) form and Practicum log due
 {{< tdclose >}}
 
 {{< trclose >}}

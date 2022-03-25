@@ -37,7 +37,7 @@ Main Activities
 *   Locate and use outside resources (e.g. journals, web, other texts) to support your teaching.
 *   Seek ways to use technology to enhance your instruction.
 *   Journal your teaching experience. The journal will provide the basis for your final reflective paper.
-*   Complete the [Preservice Performance Assessment Practicum (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://www.doe.mass.edu/edprep/ppa_form.pdf) form.
+*   Complete the [Preservice Performance Assessment Practicum (PDF)](http://www.doe.mass.edu/edprep/ppa_form.pdf) form.
 *   Observe and interview two experienced instructors at your school who teach heterogeneously grouped classes. Write a paper describing the classroom observations and your interview with the instructor. Be sure to include what you learned. Address the question of heterogeneous grouping from your perspective, from the teacher's perspective and from the perspective of three articles on this subject, pro and con.
 *   Complete a special project that benefits students and/or school at which you did your student teaching.
 *   Compose a course expectation handout for your students, detailing your expectations, rules and procedures.
