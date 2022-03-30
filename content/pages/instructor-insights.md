@@ -60,7 +60,7 @@ Curriculum Information
 
 ### Prerequisites
 
-*   [11.129 _Educational Theory and Practice I_](/courses/11-129-educational-theory-and-practice-i-fall-2011/)
+*   [11.129 _Educational Theory and Practice I_](/courses/11-129-educational-theory-and-practice-i-fall-2011)
 *   11.130 _Educational Theory and Practice II_
 
 ### Requirements Satisfied
